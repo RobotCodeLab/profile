@@ -51,12 +51,3 @@
          memory: 4
          cores: 2
          virtualization: true
-     - version:
-         cmd: baker --version
-         range: ^0.7.1         
-     - version:
-         cmd: vagrant --version
-         range: ^2.1.1       
-     - version:
-         cmd: VBoxManage --version
-         range: 5.2.x                     
