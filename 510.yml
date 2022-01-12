@@ -56,7 +56,4 @@
          range: ^0.7.1         
      - version:
          cmd: vagrant --version
-         range: ^2.1.1       
-     - version:
-         cmd: VBoxManage --version
-         range: 5.2.x                     
+         range: ^2.1.1                          
