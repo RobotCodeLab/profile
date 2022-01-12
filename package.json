@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "opunit": "github:ottomatica/opunit"
+  }
+}
