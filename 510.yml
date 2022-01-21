@@ -50,4 +50,4 @@
      - capability:
          memory: 4
          cores: 2
-         # virtualization: true
+         virtualization: true
